@@ -2,5 +2,8 @@ Myresolution
 - Konsisten untuk belajar HTML
 - Konsisten uuntuk belajar CSS
 - Konsisten uuntuk belajar PHP
+- Konsisten untuk belajar JS
+- Kolaborasi dengan expert
+
 
 Goal ==> Pajero Sport 
